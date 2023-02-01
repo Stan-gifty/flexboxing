@@ -1,0 +1,21 @@
+ul {
+    height: 400px;
+    width: 400px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    background: lightgreen;
+}
+li{
+    width: 90px;
+    height: 90px;
+    list-style: none;
+    color: brown;
+    background-color: skyblue;
+    text-align: center;
+    line-height: 1.5em;
+    font-size: 50;
+    font-family: Georgia, 'Times New Roman', Times, Georgia, 'Times New Roman', Times, serif;
+    margin: 5px;
+    border: 2px gray solid;
+    border-radius: 5px;
+}
